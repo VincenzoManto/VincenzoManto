@@ -36,8 +36,10 @@ I am Vincenzo Manto, an Italian _passionate software engineer_.
     <img src="https://img.shields.io/badge/C#-000000?style=for-the-badge&logo=csharp&logoColor=F0F0F0">
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
     <img src="https://img.shields.io/badge/JS-%23000000.svg?style=for-the-badge&logo=javascript&logoColor=white">
-    <img src="https://img.shields.io/badge/HTML-%230A0FF9.svg?style=for-the-badge&logo=html&logoColor=white">
-    <img src="https://img.shields.io/badge/CSS-%23FF6F00.svg?style=for-the-badge&logo=css&logoColor=white">
+    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
     <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white">
     <img src="https://img.shields.io/badge/.NET-%23white.svg?style=for-the-badge&logo=net&logoColor=white">
     <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white">
