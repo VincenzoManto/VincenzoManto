@@ -34,10 +34,10 @@ I am Vincenzo Manto, an Italian _passionate software engineer_.
     <img src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white">
     <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
     <img src="https://img.shields.io/badge/C#-000000?style=for-the-badge&logo=csharp&logoColor=F0F0F0">
-    <img src="https://img.shields.io/badge/Java-%23000000.svg?style=for-the-badge&logo=java&logoColor=white">
+    <img src="https://img.shields.io/badge/Java-%2396060C.svg?style=for-the-badge&logo=java&logoColor=white">
     <img src="https://img.shields.io/badge/JS-%23000000.svg?style=for-the-badge&logo=javascript&logoColor=white">
-    <img src="https://img.shields.io/badge/HTML-%23000000.svg?style=for-the-badge&logo=html&logoColor=white">
-    <img src="https://img.shields.io/badge/CSS-%23000000.svg?style=for-the-badge&logo=css&logoColor=white">
+    <img src="https://img.shields.io/badge/HTML-%230A0FF9.svg?style=for-the-badge&logo=html&logoColor=white">
+    <img src="https://img.shields.io/badge/CSS-%23FF6F00.svg?style=for-the-badge&logo=css&logoColor=white">
     <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white">
     <img src="https://img.shields.io/badge/.NET-%23white.svg?style=for-the-badge&logo=net&logoColor=white">
     <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white">
