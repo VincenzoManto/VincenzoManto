@@ -2,18 +2,32 @@
     <img width="200" src="https://avatars.githubusercontent.com/u/64726971?v=4">
 </p>
 
-### Welcome to my Gihub.
+# Vincenzo Manto 👨‍💻🌟🌌
 
-I am Vincenzo Manto, an Italian _passionate software engineer_.
+- 🇮🇹 Italian Software Engineer
+- 👨‍💼 Developer, Software Engineer, and Innovation Team Leader since 2016
+- 🎓 BSc in _Computer Science Engineering_ (University of Padua)
+- 🎓 MSc in _Computer Science Engineering - ICT Business Innovation_ (Politechnic of Milan)
 
-*TL;DR*: I love being challenged. I want to bring _automation_ and _optimization_ to any field in this world.
+### Skills and Expertise 🚀💡🎮
 
+- Situational Leadership: Experienced in leading innovation teams and applying situational leadership techniques to effectively guide and motivate team members.
+- Problem Solving: Strong analytical and problem-solving skills, adept at finding creative solutions to complex challenges.
+- Continuous Learning: Enthusiastic about knowledge acquisition and self-improvement. Always seeking opportunities to expand skills and stay updated with the latest trends and technologies.
+- Astronomy: Passionate about astronomy and celestial phenomena, actively engaged in stargazing and keeping up with astronomical discoveries.
 
+### Interests and Hobbies 
 
+📚 Knowledge and Learning
+🎮 Game Development
+🤖 Conversational AI
+📊 Business Applications
+🎶 Music
+🌌 Astronomy
 
-### My educational background
--   BSc in _Computer Science Engineering_ (University of Padua)
--   MSc in _Computer Science Engineering - ICT Business Innovation_ (Politechnic of Milan)
+### Contact Information 📧🔗
+
+- LinkedIn: [linkedin.com/in/your-profile](https://www.linkedin.com/in/Vincenzo-Manto)
 
 
 
@@ -56,7 +70,7 @@ I am Vincenzo Manto, an Italian _passionate software engineer_.
 
 
 
-### My latest stats
+### Some stats
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VincenzoManto&layout=compact" height="150">
     <img src="https://github-readme-stats.vercel.app/api?username=VincenzoManto" height="150">
@@ -64,20 +78,10 @@ I am Vincenzo Manto, an Italian _passionate software engineer_.
 
 
 
-### Latest courses I attended
+### Latest courses
 -   Computer Security
 -   Artificial Intelligence
 -   Advanced Computer Architecture
 -   ICT for Business
 -   Strategic Management
 -   Computer Infrastructures
-
-
-
-### Hobbies and interests
--   🧠 Knowledge addicted: I love learning new things
--   🚗 Conversational AI
--   🪚 Game development
--   🤖 Indie development
--   🏋 Music
--   📷 Astronomy
