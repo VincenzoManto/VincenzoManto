@@ -27,7 +27,7 @@
 
 ### Contact Information 📧🔗
 
-- LinkedIn: [linkedin.com/in/your-profile](https://www.linkedin.com/in/Vincenzo-Manto)
+- LinkedIn: [https://www.linkedin.com/in/vincenzomanto/](https://www.linkedin.com/in/vincenzomanto/)
 
 
 
