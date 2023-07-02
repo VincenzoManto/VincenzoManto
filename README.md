@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="200" src="https://github.com/VincenzoManto/VincenzoManto/blob/main/profile.PNG">
+    <img width="200" src="https://avatars.githubusercontent.com/u/64726971?v=4">
 </p>
 
 ### Welcome to my Gihub.
