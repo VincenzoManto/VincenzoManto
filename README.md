@@ -18,12 +18,12 @@
 
 ### Interests and Hobbies 
 
-📚 Knowledge and Learning
-🎮 Game Development
-🤖 Conversational AI
-📊 Business Applications
-🎶 Music
-🌌 Astronomy
+- 📚 Learning & studying
+- 🎮 Game Development
+- 🤖 Conversational AI
+- 📊 Business Applications
+- 🎶 Music
+- 🌌 Astronomy
 
 ### Contact Information 📧🔗
 
