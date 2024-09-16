@@ -73,7 +73,7 @@
 ### Some stats
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VincenzoManto&layout=compact" height="150">
-    <img src="https://github-readme-stats.vercel.app/api?username=VincenzoManto" height="150">
+    <img src="https://github-readme-stats.vercel.app/api?username=VincenzoManto&show_icons=true&rank_icon=percentile" height="150">
 </p>
 
 
