@@ -1,5 +1,2 @@
-try {
-  foo()
-} catch (e) {
-
-}
+Do() || !Do() ? 
+  foo() : null
