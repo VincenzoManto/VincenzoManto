@@ -73,7 +73,7 @@
 ### Some stats
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VincenzoManto&layout=compact" height="150">
-    <img src="https://github-readme-stats.vercel.app/api?username=VincenzoManto&show_icons=true&include_all_commits=true&count_private=true" height="150">
+    <img src="https://github-readme-stats.vercel.app/api?username=VincenzoManto&show_icons=true&count_private=true" height="150">
      <img  height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=VincenzoManto" />
 </p>
 
