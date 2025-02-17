@@ -6,8 +6,8 @@
 
 - 🇮🇹 Italian Software Engineer
 - 👨‍💼 Developer, Software Engineer, and Innovation Team Leader since 2016
-- 🎓 BSc in _Computer Science Engineering_ (University of Padua)
-- 🎓 MSc in _Computer Science Engineering - ICT Business Innovation_ (Politechnic of Milan)
+- 🎓 BSc in _Computer Science Engineering_ (University of Padua) (GPA: 4.00)
+- 🎓 MSc in _Computer Science Engineering - ICT Business Innovation_ (Politechnic of Milan) (GPA: 4.00)
 
 ### Skills and Expertise 🚀💡🎮
 
