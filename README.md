@@ -14,7 +14,18 @@
 - Situational Leadership: Experienced in leading innovation teams and applying situational leadership techniques to effectively guide and motivate team members.
 - Problem Solving: Strong analytical and problem-solving skills, adept at finding creative solutions to complex challenges.
 - Continuous Learning: Enthusiastic about knowledge acquisition and self-improvement. Always seeking opportunities to expand skills and stay updated with the latest trends and technologies.
-- Astronomy: Passionate about astronomy and celestial phenomena, actively engaged in stargazing and keeping up with astronomical discoveries.
+
+### Results
+
+
+I founded [Datastripes](https://datastripes.com), a web-only no-code data engine, because I love simplifying complexity (and boredom is a great motivator). 
+
+I’ve contributed to Springer Nature on Conversation Intelligence and Information Access, though I’m more of a builder than an academic. 
+
+When boredom strikes, I dive into discovering new Autogenerative Sequences, some of which are now on OEIS.
+
+
+
 
 ### Interests and Hobbies 
 
