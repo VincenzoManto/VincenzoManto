@@ -18,7 +18,13 @@
 ### Results
 
 
-I founded [Datastripes](https://datastripes.com), a web-only no-code data engine, because I love simplifying complexity (and boredom is a great motivator). 
+I founded [Datastripes](https://datastripes.com/), a web-only no-code data engine, because I love simplifying complexity (and boredom is a great motivator). 
+
+I'm behind [iLoveCSV](https://ilovecsv.net/) and [iHateCSV](https://ilovecsv.net/about/), 60+ toolkit for CSVs/XLSX fully online and fully in-browser (no servers involved).
+
+I founded [Superior Games](https://www.superiorgames.eu), 200k gamers software house with tens of mobile and web gamers!
+
+All my sideprojects are on [Insightest](https://insightest.app).
 
 I’ve contributed to Springer Nature on Conversation Intelligence and Information Access, though I’m more of a builder than an academic. 
 
