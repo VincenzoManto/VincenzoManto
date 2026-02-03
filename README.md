@@ -26,6 +26,8 @@ I founded [Superior Games](https://www.superiorgames.eu), 200k gamers software h
 
 All my sideprojects are on [Insightest](https://insightest.app).
 
+While I was developing Datastripes, I'd tried to introduce some improvements and new charts like the [CellBar Chart](https://medium.com/@vincmanto/beyond-the-scatter-plot-and-the-histogram-the-cell-bar-72e664854eb5)
+
 I’ve contributed to Springer Nature on Conversation Intelligence and Information Access, though I’m more of a builder than an academic. 
 
 When boredom strikes, I dive into discovering new Autogenerative Sequences, some of which are now on OEIS.
