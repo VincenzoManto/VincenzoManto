@@ -30,9 +30,9 @@ While I was developing Datastripes, I'd tried to introduce some improvements and
 
 I’ve contributed to Springer Nature on Conversation Intelligence and Information Access, though I’m more of a builder than an academic. 
 
-When boredom strikes, I dive into discovering new Autogenerative Sequences, some of which are now on OEIS.
+When boredom strikes, I dive into discovering new Autogenerative Sequences (such as [A390002](https://oeis.org/A390002)), some of which are now published and recognized on the [The On-Line Encyclopedia of Integer Sequences](https://oeis.org/search?q=author%3A%22Vincenzo+Manto%22&language=english&go=Search).
 
-
+Every now and then I try to return to theoretical computer science with some sorting algorithms and ADTs, such as [Staircase Sort](https://github.com/VincenzoManto/StaircaseSort) or Local Entropy Sort. 
 
 
 ### Interests and Hobbies 
