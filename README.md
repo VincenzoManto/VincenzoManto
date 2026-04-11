@@ -20,7 +20,7 @@
 
 I founded [Datastripes](https://datastripes.com/), a web-only no-code data engine, because I love simplifying complexity (and boredom is a great motivator). 
 
-I'm behind [iLoveCSV](https://ilovecsv.net/) and [iHateCSV](https://ilovecsv.net/about/), 60+ toolkit for CSVs/XLSX fully online and fully in-browser (no servers involved).
+I'm behind [iLoveCSV](https://ilovecsv.net/) and [iHateCSV](https://ihatecsv.com/), 60+ toolkit for CSVs/XLSX fully online and fully in-browser (no servers involved).
 
 When I was 15, I "founded" [Superior Games](https://www.superiorgames.eu), a 200k gamers software house with tens of mobile and web gamers; it's still alive and sometimes I add a new game or mod to the bucket.
 
@@ -30,7 +30,7 @@ While I was developing Datastripes, I'd tried to introduce some improvements and
 
 I’ve contributed to Springer Nature on Conversation Intelligence and Information Access, though I’m more of a builder than an academic. 
 
-When boredom strikes, I dive into discovering new Autogenerative Sequences (such as [A390002](https://oeis.org/A390002)), some of which are now published and recognized on the [The On-Line Encyclopedia of Integer Sequences](https://oeis.org/search?q=author%3A%22Vincenzo+Manto%22&language=english&go=Search).
+When boredom strikes, I dive into discovering new Autogenerative Sequences (such as [A390002](https://oeis.org/A390002), [A394905](https://oeis.org/A394905), [A394504](https://oeis.org/A394504) and many more), some of which are now published and recognized on the [The On-Line Encyclopedia of Integer Sequences](https://oeis.org/search?q=author%3A%22Vincenzo+Manto%22&language=english&go=Search).
 
 Every now and then I try to return to theoretical computer science with some sorting algorithms and ADTs, such as [Staircase Sort](https://github.com/VincenzoManto/StaircaseSort) or Local Entropy Sort. 
 
