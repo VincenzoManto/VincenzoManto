@@ -30,9 +30,11 @@ While I was developing Datastripes, I'd tried to introduce some improvements and
 
 I’ve contributed to Springer Nature on Conversation Intelligence and Information Access, though I’m more of a builder than an academic. 
 
-When boredom strikes, I dive into discovering new Autogenerative Sequences (such as [A390002](https://oeis.org/A390002), [A394905](https://oeis.org/A394905), [A394504](https://oeis.org/A394504) and many more), some of which are now published and recognized on the [The On-Line Encyclopedia of Integer Sequences](https://oeis.org/search?q=author%3A%22Vincenzo+Manto%22&language=english&go=Search).
+When boredom strikes, I dive into discovering new Autogenerative Sequences (such as [A390002](https://oeis.org/A390002), [A394905](https://oeis.org/A394905), [A394504](https://oeis.org/A394504) and many more), some of which are now published and recognized on the [The On-Line Encyclopedia of Integer Sequences](https://oeis.org/search?q=author%3A%22Vincenzo+Manto%22). Here is the complete list in the [Blog](https://vincenzomanto.github.io/Blog/math/oeis).
 
-Every now and then I try to return to theoretical computer science with some sorting algorithms and ADTs, such as [Staircase Sort](https://github.com/VincenzoManto/StaircaseSort) or Local Entropy Sort. 
+Every now and then I try to return to theoretical computer science with some sorting algorithms and DSL like [Fracta](https://vincenzomanto.github.io/Blog/articles/fracta).
+
+My [Blog](https://vincenzomanto.github.io/Blog/) contains all my works, ranging from format definitions, OEIS sequences to [astronomical](https://vincenzomanto.github.io/Blog/astronomy) observations and discoveries.
 
 
 ### Interests and Hobbies 
